@@ -1,0 +1,8 @@
+In this we can see HTML Text.Text can be different in websites.Some text is in the form of headings or some in paragraphs.And in paragraph text, some text have may be bold or some may be Italics.Texts have different types
+
+So let,start with paragraph (<p></p>) tag. Anything we can write here in tag p .
+And if you don,t use p tag you can see tthe chnages without p .Check by yourself.But best is you can use paragraph tag 
+
+You know that heading have different views ,but in html headings h1 is larger size of the heading , h6 is the smaller size of the heading.
+
+If we create another paragraph , we can add p tag another.
