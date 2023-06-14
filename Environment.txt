@@ -1,0 +1,6 @@
+You can choose any text editor to perform the coding of HTML and CSS.
+
+If you do with simple you can use Notepad in your computer.
+If you can do with advance ,then you can use sublime text and VS Code.You can install that editors and than we can work on that editors
+
+And you can choose any browser to open the page/webiste that you can create in text editor.
