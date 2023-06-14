@@ -1,0 +1,16 @@
+First step is that you can create folder and create page with the extension of (.html) in that folder.
+
+If you see the programming language ,they have basic/special structres to use that,but in HTML case we can say structure called a MarkUp.
+
+So this tag ( <!DOCTYPE html> ) is top in code , because any browser can read that html text/file , browser will understand that it is a HTML document/page.If you use previous version like 3 and 4 , you can mention html3 and html4.
+
+Next tag we can use is html tag ( <html></html> ).And you already know html language have tags and attributes.
+Some tags can be close by this </tagname>
+And anything which we can code inside the html tag can be seen on page/website.
+
+Inside the html tags we can create two tags head and body.
+In head tags ,we can be written that tags/we can provide that data that we can teach to our browser and computer
+In body tags, we can be written code to the user side like layout/website of the page.
+
+
+In head section , has common example title tag .Title tag can define the title of the web page which you can see that tab in your browser.You can  preview of the title in tab.
