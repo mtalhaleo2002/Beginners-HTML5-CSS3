@@ -1,0 +1,52 @@
+HTML stands for "Hyper Text MarkUp Language
+
+This language can be read and understand by all browsers which we are used. 
+
+ All browsers can go through their output by HTML, and you can see websites on internet, these websites can be written in the markup of HTML.
+
+ For example if you inspect any website on any browser you can see the markup of html , and browser can read Html code to do the view of that website.
+
+ CSS stands for "Cascading Style Sheets"
+
+ This style sheets is used for style the website.
+
+
+ Q: Why HTML called HTML5 and CSS called CSS3 ?
+
+ Ans: HTML5 is the latest/stable version of HTML.You can see the history of HTML4 and HTML3 on Internet And same perspective about that CSS3.
+
+ Q: What,s the difference between HTML and HTML5  ?
+
+ Ans: HTML and CSS is basic version not with additional updated properties. But in HTML5 and CSS3, if any property can be updated , that can be add into latest/stable versions.
+
+ Q: Why we practice HTML5 and CSS3 ?
+
+ Ans: To create Website ,if you can practice these, the first step you can achieve in Web Development. And you think you can develop website without HTML and CSS, so in my opinion that,s impossible.
+
+ Q: What does HTML do ?
+
+ Ans: HTML describes the structure of a web page semantically (describe website structure). HTML have different elements and that different blockks are called elements. HTML elements are the building block of HTML pages.
+
+ Q: What is an HTML element ?
+
+ Ans: An HTML element is an individual component of an HTML document or web page.
+
+ Q: MarkUp ?
+
+ Ans: HTML MarkUp consists of several Tags and their Attributes.
+
+ Q: HTML Tags ?
+
+ Ans: Everything is written in the form of Tags.
+      <HTML></HTML> (This is a TAG)
+
+Note: HTMl is not a complex language like php,C++,C#. It is just a MarkUp Language.
+
+If you want to more information about the history of HTML, you can find on Internet.
+
+
+Q: What Does CSS do ?
+
+Ans: CSS used for describing the presentation of a document written in a MarkUp Language .It provides style to our HTML page/websites. It means that CSS can style the elements in HTML file and CSS provide the size,height,width,padding,margin etc of that element.
+
+
