@@ -1,0 +1,7 @@
+If we can use paragraph tag and we use another paragraph tag , the another paragraph tag can be start with next line.
+
+If we want to add line break we can use ( <br> ) tag.
+Br means break ( means line break ).This tag can,t be closed.
+
+If we want to create horizontal line between the lines we can use ( <hr> ) tag.
+Hr means break ( means horizontal line ).This tag can,t be closed.
