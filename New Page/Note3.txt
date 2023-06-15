@@ -1,0 +1,23 @@
+In this we can see HTML Text Formatting like bold underline italics etc 
+
+For bold the text we can use (<b></b>) tag.
+For strong the text we can use (<strong></strong>) tag.
+Bold and Strong tag both can do same thing .
+
+For underline the text we can use (<u></u>) tag.
+For represents the range of a text we can use (<ins></ins>).
+Underline and Insert tag both can do same thing.
+If you want to be multiple formatting in one text you can do this ( <b><u> Underline </u></b>).
+
+For del the text we can use ( <del></del> ) tag.
+For small the text we can use ( <small></small> ) tag.
+
+For italics the text we can use ( <i></i> ) tag.
+For emphasize the text we can use ( <em></em> ) tag.
+
+For highlight the text we can use (<mark></mark>)
+
+
+
+
+ 
