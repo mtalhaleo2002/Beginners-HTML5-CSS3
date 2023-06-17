@@ -1,0 +1,25 @@
+In this we study an important tag called Anchor Tag.
+
+The <a> tag defines a hyperlink, which is used to link from one page to another.
+The most important attribute of the <a> element is the href attribute, which indicates the link's destination.
+Different Tags have diferent attributes.
+Attribute can be written inside the anchor tag <a href= "" > </a> ( href means hyper-reference ).
+If we want to add a ink in the text you can write link in thea trribute of href of inverted commas ( href = "www.google.com")
+And we write in achor tag Google ( you can write anything you want )
+
+
+And one more attribute to let you know inside the a tag <a rel=""></a>.
+If you know about SEO you know that attribute and its value ( rel = "nofollow" , rel = "dofollow" ).
+You don,t need to use this attribute.Leave this later we can study on it.
+
+And one more attribute target = "" inside the a tag <a target = ""></a>,
+Target attribute  specifies where to open the linked document:
+If its value is this then :
+_blank	Opens the linked document in a new window or tab
+_self	Opens the linked document in the same frame as it was clicked (this is default).
+
+And if we want to add new page then you can follow you will understand this (how to create page , and how to link new.html in href tag )
+
+And you see that if we want to create html in another folder ,we can give them path to relate the pages( you see the code , then you understands ).
+
+And that text which have a link is called Hyper Text.
