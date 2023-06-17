@@ -1,0 +1,22 @@
+A table in HTML consists of table cells inside rows and columns.
+
+
+A table cell can contain all sorts of HTML elements: text, images, lists, links, other tables, etc.
+
+TABLE DATA
+Each table cell is defined by a <td> and a </td> tag.
+td stands for table data.
+Everything between <td> and </td> are the content of the table cell.
+
+TABLE ROW
+Each table row starts with a <tr> and ends with a </tr> tag.
+tr stands for table row.
+
+TABLE HEADER
+Sometimes you want your cells to be table header cells. In those cases use the <th> tag instead of the <td> tag.
+th stands for table header.
+By default, the text in <th> elements are bold and centered, but you can change that with CSS. 
+
+
+
+
