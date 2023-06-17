@@ -1,0 +1,14 @@
+Image tag can,t be closed.It has attributes.
+
+The <img> tag is used to embed an image in an HTML page.
+
+The <img> tag has two required attributes:
+src - Specifies the path to the image
+alt - Specifies an alternate text for the image, if the image for some reason cannot be displayed
+
+Also, always specify the width and height of an image. If width and height are not specified, the page might flicker while the image loads.
+
+In source we enter the path and format of the image ( jpg, pdf etc )
+And for example you would create another folder and have image in it .You already know that how can be reference the path( you read in anchor tag ).
+
+You can also image to be a link( You can check in code).
