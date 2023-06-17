@@ -5,65 +5,19 @@
 <html>
   <head>
     <title>HOME</title>
-
-    <style>
-      table{
-        width: 500px;
-        margin: auto;
-      }
-      table, tr, td, th{
-        border: 1px solid black;
-        border-collapse: collapse;
-      }
-      /* You don,t know about that styling but later we can discuss */
-    </style>
   </head>
 
   <body>
 
-    <h1>Tables</h1>
+    <h1>Videos</h1>
 
-    <!-- For create the table ,table tag used -->
+    <video  width="500px" controls autoplay muted>
+      <!-- You can direct src tag used in video tag ,but for the another way you can give the path to your video and define the type means format of the video -->
 
-    <table>
-      <!-- tr can create horizontal row -->
-      <tr> 
-        <!-- For example, if we want to create 3 column in one row then td tag used -->
-        <td>
-          Name
-        </td>
-        <td>
-          Saeed
-        </td>
-        <!-- And if you go with that , you see output not with table lining, so with the help of CSS , you can see the table  -->
-      </tr>
+      <source src="Videos/Nature.mp4" type="video/ogg">
+      Your Browser does not support video
+      <!-- If a browser does not support video format ,the message can be seen to user as I mentioned above -->
 
-      <!-- If you see the output you can see that the output was not very good. -->
-    </table>
-
-    <br>
-    <br>
-
-    <table>
-      <!-- We need to wrap every table header in a new table row beacause we want to see a new data in a line/ new row. -->
-      <tr>
-        <th>Name</th>
-        <th>Email</th>
-      </tr>
-      <tr> 
-        <td>Shahnawaz Dahani</td>
-        <td>shtimuaigma70@xyz.com</td>
-      </tr>
-      <tr> 
-        <td>MS Dhono</td>
-        <td>guyahus890@hujyu.com</td>
-      </tr>
-      <tr> 
-        <td>Ronaldo</td>
-        <td>jjuyrte@koiyt.com</td>
-      </tr>
-      </table>
-
-      <!-- For table styling , we would study later on CSS -->
+    </video>
   </body>
 </html>
