@@ -1,0 +1,12 @@
+The HTML <audio> element is used to play an audio file on a web page.
+To play an audio file in HTML, use the <audio> element/tag.
+
+The controls attribute adds audio controls, like play, pause, and volume.
+
+The <source> element allows you to specify alternative audio files which the browser may choose from. The browser will use the first recognized format.
+
+The text between the <audio> and </audio> tags will only be displayed in browsers that do not support the <audio> element.
+
+To start an audio file automatically, use the autoplay attribute.
+
+Add muted after autoplay to let your audio file start playing automatically (but muted).
