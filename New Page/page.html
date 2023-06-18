@@ -8,16 +8,50 @@
   </head>
 
   <body>
+    <form>
+      <label for="fname">First name:</label><br> <!--You can see the impact of label that what you can see the name with label-->
+      <input type="text" placeholder="First Name"><br><br>
+      Last Name:
+      <input type="text" placeholder="Last Name"><br><br>
+      Email:
+      <input type="email" placeholder="Email"><br><br>
+      Birth Date:
+      <input type="date"><br><br>
+      Password:
+      <input type="password" placeholder="Password"><br><br>
+      Gender:
+      Male:<input type="radio"> <!--You can -->
+      Female:<input type="radio"><br><br>
+      <!-- In ths you can see you can select both male and female( but you want select only one male or female).we can do this later not right now -->
+      Website:
+      <input type="url" placeholder="Website"><br><br>
+      Are you a Developer:
+      <input type="checkbox"><br><br>
+      Color:
+      <input type="color"><br><br>
+      Time:
+      <input type="time"><br><br>
+      Age:
+      <input type="number" min="18" max="50"><br><br>
+      <!-- When you see the age input you can see that you can start with age number 18 to 60  -->
+      Country:
+      <!-- When we wnt to make select options for the option ,we don,t write input, we write select tag -->
+      <select> <!-- In select we give option tag-->
+        <option >United Kingdom</option>
+        <option >Kuwait</option>
+        <option >United States</option> <!--You can see the options in form -->
+      </select><br><br>
+      Experience:
+      <input type="range" ><br><br>
+      <input type="submit" value="Register"> 
+      <!--In this uo can see that he value define the user perspective( We define the type submit button but we can that submit type input value is Register/Login/Anything else you want)-->
 
-    <h1>Audio</h1>
+      <!-- In the form tag you can see the name attribute (That attribute can be impact on backend ) -->
 
-    <audio  controls autoplay muted >
-      <!-- You can direct src tag used in video tag ,but for the another way you can give the path to your audio and define the type means format of the video -->
+      <!-- The alt attribute in the form tag provides an alternate text for the user, if he/she for some reason cannot view the image (because of slow connection, an error in the src attribute, or if the user uses a screen reader). Note: The alt attribute can only be used with <input type="image"> . -->
 
-      <source src="Audio/audio.m4a" type="audio/mp3">
-      Your Browser does not support audio
-      <!-- If a browser does not support audio format ,the message can be seen to user as I mentioned above -->
-
-    </audio>
+      
+  
+    </form>
   </body>
 </html>
