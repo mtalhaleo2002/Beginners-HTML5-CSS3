@@ -1,0 +1,17 @@
+You already know that HTML5 has much improved than previous versions and new updates are still upgoing.CSS have many upcoming changes and for that upcoming changes for the impact of on our website( means revolution on our page ).
+
+Today we discuss div tag alternative tags( which are more user-friendly or more readable ).
+In previous topics, we already know about div tag to create header,footer,section,aside .But now we hav those tags in which we don,t need to create enough div tags 
+
+And that type of tags which are user-friendly or more readble is called SEMANTIC TAGS.
+
+In semantic tags, if we want to create the header of the page , we call header tag , that,s it.
+If we want to create navigation bar of the page , we call nav tag and for section the page , write section tag .
+And if we want an article on the page , we write article tag.
+And if we want an sidebar on the page , we write aside tag.
+And if we want an footer on the page , we write footer tag.
+And if we want to add address in the footer, simple we add address tag.
+
+There are so many semantic tags which you can search on Internet and read what they works.
+
+If you don,t understand .In CSS section ,you understand all of that tags.
