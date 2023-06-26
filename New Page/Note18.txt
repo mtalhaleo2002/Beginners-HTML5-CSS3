@@ -1,0 +1,18 @@
+Now we can understand CSS Text.
+
+You understand the code because this is simple.
+
+But in color syling you can give color in the form of color name like red,blue,violet etc.
+
+And other one you can pick the color from color picker ( You can find Color Picker on Internet ).Examples like #32a852, #35114d etc.
+
+And another one is you can give the amount of rgb in which we can define the color in percentage of red, green, blue like rgb(55, 89, 10) etc.
+
+And another one is rgba in which a means alpha (means transparency) and it can be like (55,76,11, 0.8) etc.Transparency,the alpha parameter is a number between 0.0 (fully transparent) and 1.0 (fully opaque).
+
+I can give extra property to the .heading class in which text align must be center .You can see the impact of text align on website( you can doing and see what happens ).
+
+You can understand the concept of child and parent elements. It means that all of the elements/tags are the child of html tag. Means body and head are the child elements/tags of html tag.
+And h1 and p are the child of body elements.So body tag is the parent of h1 and p tag/elements.
+
+I can give text align to center to the body tag and right to the heading , you can see the impact in website

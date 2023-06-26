@@ -1,17 +1,15 @@
-Selector{ Property : Value; }
-
 body{
-    background-color: white;
+    text-align: center;
 }
-h1{
-    color: green;
+.heading{
+    color: #054054;
+    text-align: right;
 }
-.headingRed{
-    color: red;
 
+.paragraph{
+    color:  rgb(40, 189, 40);
 }
-#headingYellow{
 
-    color: yellow;
-
+.paragraph01{
+    color:  rgba(197, 24, 44, 0.433);
 }
