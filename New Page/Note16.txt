@@ -1,0 +1,17 @@
+CSS Linking has three ways:
+
+External Style Sheets
+Internal Style Sheet
+In-Line Style Sheets
+
+External means I can create external page/file with extension of .css and then link with our page/website
+
+Internal means style tag open in head tag of the our web page/document in html file and then we can give styling under the style tag which you can see our Table section previous topics
+
+Inline means in our html file ,I can give styling one by one tag.
+
+Bute best of this we can use external style sheet to do linking with CSS.
+
+So new create file style.css and then link on our page.html file ( you can see on code ).And then check on page on browser and click the left mouse button to go in View page Source ,then you can see the link of css file .
+
+You can see the inline styling and external style sheets to style the element/tag , you can see on code.
