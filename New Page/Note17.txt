@@ -1,0 +1,7 @@
+In this topic, we discuss CSS Syntax.
+
+In CSS file( .css file ), we can can select the tag/element in which we can give the styling that tag( You can see the code in style.css )
+
+We can give them class and id to the tags and then you can reference the class and id in CSS file like ( for class we can give .className and for id we can give #idName )
+
+So now you can understand the concept of class and id and CSS Syntax.
