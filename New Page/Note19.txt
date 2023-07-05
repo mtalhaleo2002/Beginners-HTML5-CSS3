@@ -1,0 +1,25 @@
+Now we can understand more topics about text styling.
+
+You can add text decoration in css styling for text tag and change value one by one:
+  text-decoration: overline;
+  text-decoration: line-through;
+  text-decoration: underline;
+  text-decoration: underline overline;
+  
+  You can see what we can doing this in html like del and u tag can do the same things as you can see the text decoration ( underline, line-through ) in CSS.
+
+  If I want to all the text not be underline like you can see the linked text must be underline by default so we can give text-decoration be none .
+  You can doing this but no impact on linked text because you can,t give the value of the child tag and child tag is anchor tag( a ).
+
+You can give the text-indent 50px in paragraph class.You can see the impact on website.The text-indent property specifies the indentation of the first line in a text-block.
+
+The text-transform property controls the capitalization of text.It shoud be lowercase and uppercase and capitaize(means every word starts with Capital Letter)
+
+The line-height property specifies the height of a line.it should be in the form of number ( number that will be multiplied with the current font-size to set the line height ), normal ( means noraml spacng in line by default ), length ( A fixed line height in px, pt, cm, etc. ), % ( A line height in percent of the current font size ),and etc.
+
+The letter-spacing property increases or decreases the space between characters in a text.It should be normal, in pixels ( 4px ), and negative values are also allowed( -5px, -2px ) etc.
+
+The word-spacing property increases or decreases the white space between words.It should be normal, in pixels ( 4px ), and negative values are also allowed( -5px, -2px ) etc.
+
+
+The direction property specifies the text direction/writing direction within a block-level element.It should be ltr ( Text direction goes from left-to-right. This is default	), rtl ( Text direction goes from right-to-left ) and etc.This property can not be very useful in CSS but for the conecept I let you know.

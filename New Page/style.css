@@ -1,15 +1,17 @@
-body{
-    text-align: center;
+b{
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
-.heading{
-    color: #054054;
-    text-align: right;
+.paragraph a{
+    text-decoration: none;
+    color: red
+
 }
 
 .paragraph{
-    color:  rgb(40, 189, 40);
-}
-
-.paragraph01{
-    color:  rgba(197, 24, 44, 0.433);
+    text-indent: 50px;
+    text-transform: capitalize;
+    line-height: 20px;
+    word-spacing: 5px;
+    direction: rtl;
 }
