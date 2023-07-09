@@ -1,10 +1,13 @@
 b{
     text-transform: uppercase;
     letter-spacing: 3px;
+    font-size: 50px;
+    font-style: oblique;
+    
 }
 .paragraph a{
     text-decoration: none;
-    color: red
+    color: red;
 
 }
 
@@ -14,4 +17,8 @@ b{
     line-height: 20px;
     word-spacing: 5px;
     direction: rtl;
+    font-weight: normal;
+    font-family: 'Caprasimo', cursive;
+    /* 2nd value cursive for those if browser doesn,t read that font then 2nd font will be loaded */
+
 }

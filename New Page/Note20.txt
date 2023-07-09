@@ -1,0 +1,11 @@
+We can now learn CSS fonts .
+
+So 1st property is font-size.The font-size property sets the size of a font.
+
+2nd property is font-weight. The font-weight property sets the text to be bold or normal.It should be normal or bold or something you can search on Internet.
+
+3rd property is font-family in which we can give font family name and the best thing we can get fonts on Google fonts .You can select the fonts and link the font.You can see the the page and read the code .You better understands.
+
+4th property is font-style.The font-style property specifies the font style for a text.It should be normal or italic or oblique or something you can search on Internet.
+
+
