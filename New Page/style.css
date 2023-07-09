@@ -1,15 +1,21 @@
-.header{
-    min-height: 300px;
-    max-height: 700px;
-    text-align: center;
-
-    border-width:2px;
-    border-style: solid;   /* Border style discuss in notes */
-    border-color: blue;
-    border-bottom:5px groove black ;
+.box1{
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+    color: black;
+    padding-top: 70px
 }
+.box2{
+    height: 250px;
+    width: 250px;
+    background-color: chartreuse;
+    margin: 20px 10px 20px 50px;
+}
+.box3{
 
-.heading{
-    border: 3px dotted red;
-    border-radius: 50%;
+    background-color:brown;
+    width:300px;
+    padding: 25px;
+    box-sizing: border-box;
+    /* You can check with or without the property of box-sizing. */
 }
