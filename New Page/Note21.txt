@@ -1,0 +1,16 @@
+Now we dicuss CSS Height And Width.
+
+The CSS height and width properties are used to set the height and width of an element.
+The height and width properties may have the following values:
+auto - This is default. The browser calculates the height and width.
+length - Defines the height/width in px, cm, etc.
+% - Defines the height/width in percent of the containing block.
+And other search on internet.
+
+Text-align can target the content of your tag and you may wwant to center or something ,you just check on internet.
+
+The CSS min-width property is used to sets the minimum width of an element.
+Min height means by default height is 200px ,but if the content was about too big to not set in 200px ,then it increases the size of the header.
+
+The CSS max-width property is used to set the maximum width of an element.
+Now we craete a boundary that the header size must be in between 200 px to 500 px even if its content over load ,then the cocntent was shown outsider the header div.

@@ -1,24 +1,16 @@
-b{
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    font-size: 50px;
-    font-style: oblique;
-    
-}
-.paragraph a{
-    text-decoration: none;
-    color: red;
-
+.container{
+    background-color: #666;
+    color: #fff;
+    height: 200px;
+    width: 800px;
+    margin: auto;
+    /* We will discuss later on margin */
 }
 
-.paragraph{
-    text-indent: 50px;
-    text-transform: capitalize;
-    line-height: 20px;
-    word-spacing: 5px;
-    direction: rtl;
-    font-weight: normal;
-    font-family: 'Caprasimo', cursive;
-    /* 2nd value cursive for those if browser doesn,t read that font then 2nd font will be loaded */
-
+.header{
+    background-color: #333;
+    color: #7816e7;
+    min-height: 200px;
+    max-height: 400px;
+    text-align: center;
 }
