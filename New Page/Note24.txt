@@ -1,0 +1,34 @@
+In this topic we will understand box modelin CSS.
+
+ _____________________________________________
+|                  Margin                     |
+|  _________________________________________  |
+| |                 Border                  | |
+| |  _____________________________________  | |
+| | |               Padding               | | |
+| | | ----------------------------------- | | |
+| | | |             Content             | | | |
+| | | |_________________________________| | | |
+| | |_____________________________________| | |
+| |_________________________________________| |
+|_____________________________________________|
+
+
+
+Every tags in html can their view of perspective is in the form the rectangle .And that rectangle have 4 things ,you can seen on picture.
+
+The CSS box-sizing property allows us to include the padding and border in an element's total width and height.
+
+Without the CSS box-sizing Property
+By default, the width and height of an element is calculated like this:
+
+width + padding + border = actual width of an element
+height + padding + border = actual height of an element
+
+This means: When you set the width/height of an element, the element often appears bigger than you have set (because the element's border and padding are added to the element's specified width/height).
+
+Since the result of using the box-sizing: border-box; is so much better, many developers want all elements on their pages to work this way.
+
+The code below ensures that all elements are sized in this more intuitive way. Many browsers already use box-sizing: border-box; for many form elements (but not all - which is why inputs and text areas look different at width: 100%;).
+
+Applying this to all elements is safe and wise.
