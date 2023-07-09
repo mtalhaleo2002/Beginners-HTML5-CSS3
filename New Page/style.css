@@ -1,16 +1,15 @@
-.container{
-    background-color: #666;
-    color: #fff;
-    height: 200px;
-    width: 800px;
-    margin: auto;
-    /* We will discuss later on margin */
+.header{
+    min-height: 300px;
+    max-height: 700px;
+    text-align: center;
+
+    border-width:2px;
+    border-style: solid;   /* Border style discuss in notes */
+    border-color: blue;
+    border-bottom:5px groove black ;
 }
 
-.header{
-    background-color: #333;
-    color: #7816e7;
-    min-height: 200px;
-    max-height: 400px;
-    text-align: center;
+.heading{
+    border: 3px dotted red;
+    border-radius: 50%;
 }
