@@ -1,17 +1,9 @@
-p, span, u{
-    border: 1px solid red;
+.box {
     background-color: black;
-    color: white;
-}
-
-p {
-    display: inline;
-}
-
-u {
-    display: block;
-}
-
-span {
-    display: none;
+    color: yellow;
+    height: 250px;
+    /* overflow: hidden; */
+    overflow: scroll;
+    outline: 5px solid blue;
+    border: 3px solid yellow;
 }
