@@ -1,0 +1,15 @@
+In this we,ll see the scenarios of display.
+
+You see the p span and u tag in which p tag get block level display and its border width almost can get the width of browser.
+And other hand u and span tag is inline display element and whatever text is ther ein thes tags ,these tags can space occupy among their content. 
+
+You inspect the element p in which you see the display block in styles in Inspect portion.
+And other hand inline element canbe written and can be placed in InLine whenever the line goes empty and then shift to next line .
+
+But block level element can occupy the width of whole line .If we add new p tag under the p tag you see the difference( You can see on code. )
+
+You can see the code and output you better understands what display can actually do ?
+
+You can browse which tags under the the block and inline elements.
+
+If  I want to display none ,you can,t see the p tag and its content on the page.

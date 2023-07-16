@@ -1,15 +1,17 @@
-.box{
-    background-color: #888;
-    height: 200px;
-    width: 250px;
-    padding: 10px;
-    /* You see that tha padding can increase the width and height by 20px ,because padding top and padding both add together and element can fet the height of 220px and width of 270px  */
-    border: 5px solid red;
-    /* Now you inspect the element , you see the width 280px and height 230px due to increase in border 5px (5px from the top and bottom can inrease the height and 5px from right and left increase the width) */
-    margin: 10px;
-    /* margin can impact of be outside of any defined borders. */
-    box-sizing: border-box;
-    /* If we want to not change the height and width of the element and padding also in that element than we use this for not the changes of height and width.Box-sizing remains the height and width same as we mention the element*/
-    /* box-sizing: content-box
-    content-box changes the height and width due to the impact of border and padding. */
+p, span, u{
+    border: 1px solid red;
+    background-color: black;
+    color: white;
+}
+
+p {
+    display: inline;
+}
+
+u {
+    display: block;
+}
+
+span {
+    display: none;
 }
