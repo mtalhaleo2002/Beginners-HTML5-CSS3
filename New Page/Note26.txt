@@ -1,0 +1,9 @@
+In this we can see the CSS OverFow And Outline.
+
+You can see the if I can give height 250px to div the content overflows.
+For overflow the content we can add style overflow in which we can hidden the overflow.You can,t see the overflow but you can,t see the overflow content.
+For see the overflow content select scroll in overflow styles.
+
+Border property can change sizes according to their border styles.But outline styles can,t change the sizes of height and width.
+
+Outline can be defined with border.Outline can be placed outside of the border limit and inside of the margin limit.
